@@ -7,4 +7,4 @@
 
 ## Deployment / 배포
 [Disney Princess](https://lee-ye-ji.github.io/Princess-selector/)
-
+![디즈니공주](https://user-images.githubusercontent.com/59958929/122672750-31158f80-d208-11eb-8ab7-6aedba5f9c93.gif)
