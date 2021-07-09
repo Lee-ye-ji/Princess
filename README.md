@@ -6,7 +6,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&color=white) ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&color=orange)
 
 ## Refactoring / 리팩토링
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&color=white) ![SCSS](https://img.shields.io/badge/-SCSS-fffff?style=flat&logo=scss&color=pink)<br>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&color=white) ![SCSS](https://img.shields.io/badge/-SCSS-fffff?style=flat&logo=sass&color=white)<br>
 https://github.com/Lee-ye-ji/Princess-selector-Refactoring
 
 ## Deployment / 배포
