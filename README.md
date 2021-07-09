@@ -6,7 +6,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&color=white) ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&color=orange)
 
 ## Refactoring / 리팩토링
-결과의 변경 없이 코드의 구조를 재조정함<br>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&color=white) ![SCSS](https://img.shields.io/badge/-SCSS-fffff?style=flat&logo=scss&color=pink)<br>
 https://github.com/Lee-ye-ji/Princess-selector-Refactoring
 
 ## Deployment / 배포
